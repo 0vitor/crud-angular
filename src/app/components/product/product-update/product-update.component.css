@@ -1,0 +1,12 @@
+form {
+    display: flex;
+    flex-direction: column;
+}
+
+.title {
+    margin-bottom: 20px;
+}
+
+button {
+    margin: 0px 10px 0 0;
+}
